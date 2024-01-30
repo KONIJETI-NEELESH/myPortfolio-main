@@ -1,2 +1,2 @@
-# myPortfolio-main
- Personal Portfolio
+# Portfolio Main
+ My Portfolio
